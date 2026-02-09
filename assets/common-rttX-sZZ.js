@@ -1,0 +1,1 @@
+var e={yearFormat:`YYYY`,dayFormat:`D`,cellMeridiemFormat:`A`,monthBeforeYear:!0};export{e as t};
