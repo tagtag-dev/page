@@ -1,1 +1,0 @@
-import{Di as e,Ui as t,qi as n,yi as r}from"./index-D9LA8apy.js";var i=e({__name:`BasicLayout`,setup(e){return(e,i)=>{let a=n(`router-view`);return t(),r(a)}}});export{i as default};

@@ -1,1 +1,0 @@
-import{Di as e,Ea as t,Ki as n,Kt as r,Ui as i,wa as a,xi as o}from"./index-D9LA8apy.js";var s=e({__name:`CardDescription`,props:{class:{}},setup(e){let s=e;return(e,c)=>(i(),o(`p`,{"data-slot":`card-description`,class:t(a(r)(`text-muted-foreground text-sm`,s.class))},[n(e.$slots,`default`)],2))}});export{s as t};
