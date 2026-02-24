@@ -1,1 +1,0 @@
-import{Ki as e,Ri as t,da as n,sa as r}from"./index-Bdnse1ke.js";var i=e({__name:`BasicLayout`,setup(e){return(e,i)=>{let a=n(`router-view`);return r(),t(a)}}});export{i as default};
