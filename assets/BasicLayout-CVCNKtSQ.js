@@ -1,1 +1,0 @@
-import{Gi as e,Li as t,oa as n,ua as r}from"./index-D6Cod0pL.js";var i=e({__name:`BasicLayout`,setup(e){return(e,i)=>{let a=r(`router-view`);return n(),t(a)}}});export{i as default};
