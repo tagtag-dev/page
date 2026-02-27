@@ -1,1 +1,0 @@
-import{Qi as e,Wi as t,fa as n,ga as r}from"./index-DdCkXSlx.js";var i=e({__name:`BasicLayout`,setup(e){return(e,i)=>{let a=r(`router-view`);return n(),t(a)}}});export{i as default};

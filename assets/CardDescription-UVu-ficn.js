@@ -1,0 +1,1 @@
+import{Ki as e,Qi as t,Ya as n,fa as r,ha as i,i as a,qa as o}from"./index-BcmHnxXw.js";var s=t({__name:`CardDescription`,props:{class:{type:[Boolean,null,String,Object,Array]}},setup(t){let s=t;return(t,c)=>(r(),e(`p`,{"data-slot":`card-description`,class:n(o(a)(`text-muted-foreground text-sm`,s.class))},[i(t.$slots,`default`)],2))}});export{s as t};
