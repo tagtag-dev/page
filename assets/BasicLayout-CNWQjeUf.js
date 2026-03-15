@@ -1,0 +1,1 @@
+import{$i as e,Gi as t,_a as n,pa as r}from"./index-Br9Gio47.js";var i=e({__name:`BasicLayout`,setup(e){return(e,i)=>{let a=n(`router-view`);return r(),t(a)}}});export{i as default};
