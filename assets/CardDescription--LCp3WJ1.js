@@ -1,0 +1,1 @@
+import{$i as e,Ja as t,Xa as n,ga as r,i,pa as a,qi as o}from"./index-w-W82Dhz.js";var s=e({__name:`CardDescription`,props:{class:{type:[Boolean,null,String,Object,Array]}},setup(e){let s=e;return(e,c)=>(a(),o(`p`,{"data-slot":`card-description`,class:n(t(i)(`text-muted-foreground text-sm`,s.class))},[r(e.$slots,`default`)],2))}});export{s as t};
